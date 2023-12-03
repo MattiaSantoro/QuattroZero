@@ -1,4 +1,4 @@
-# quattro-zero
+# QuattroZero
 
 Hello everyone!
 
